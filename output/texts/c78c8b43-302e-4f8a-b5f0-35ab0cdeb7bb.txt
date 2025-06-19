@@ -1,0 +1,1 @@
+In this work, we use sine and cosine functions of different frequencies:

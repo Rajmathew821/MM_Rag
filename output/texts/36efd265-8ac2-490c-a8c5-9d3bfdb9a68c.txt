@@ -1,0 +1,1 @@
+We employ three types of regularization during training:

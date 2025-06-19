@@ -1,0 +1,1 @@
+Label Smoothing During training, we employed label smoothing of value €;, = 0.1 (B0J. This hurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score.

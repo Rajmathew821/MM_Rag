@@ -1,0 +1,1 @@
+query with all keys, divide each by dk, and apply a softmax function to obtain the weights on the values.

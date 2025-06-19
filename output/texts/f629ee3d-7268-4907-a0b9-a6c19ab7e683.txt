@@ -1,0 +1,1 @@
+We used the Adam optimizer with 3; = 0.9, 82 = 0.98 and € = 10~°. We varied the learning rate over the course of training, according to the formula:
